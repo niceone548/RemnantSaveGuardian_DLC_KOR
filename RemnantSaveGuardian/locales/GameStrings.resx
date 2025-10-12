@@ -2083,7 +2083,7 @@
     <value>Sewer Hole</value>
   </data>
   <data name="Sewer" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="Witch" xml:space="preserve">
     <value>Sunken Witch</value>
@@ -2206,7 +2206,7 @@
     <value>White Glass Bead</value>
   </data>
   <data name="Leywise" xml:space="preserve">
-    <value></value>
+    <value />
   </data>
   <data name="MetaGem_BottomFeeder" xml:space="preserve">
     <value>Bottom Feeder</value>
@@ -2511,7 +2511,7 @@
   <data name="LydusaTemple" xml:space="preserve">
     <value>Lydusa's Temple</value>
   </data>
-  <data name = "DLC3Story">
+  <data name="DLC3Story" xml:space="preserve">
     <value>The Dark Horizon</value>
   </data>
   <data name="AgronomySector" xml:space="preserve">
@@ -2535,250 +2535,262 @@
   <data name="AlepsisTaura" xml:space="preserve">
     <value>Alepsis Taura</value>
   </data>
-  <data name = "CargoBelt">
+  <data name="CargoBelt" xml:space="preserve">
     <value>Train Platforms</value>
   </data>
-  <data name = "GasChamber">
+  <data name="GasChamber" xml:space="preserve">
     <value>Gas Chamber Maze</value>
   </data>
-  <data name = "Overload_DLC">
+  <data name="Overload_DLC" xml:space="preserve">
     <value>Power Circuit Puzzle</value>
   </data>
-  <data name = "SecurityDrone_DLC">
+  <data name="SecurityDrone_DLC" xml:space="preserve">
     <value>Security Drone Maze</value>
   </data>
-  <data name = "ShiftingCitadel">
+  <data name="ShiftingCitadel" xml:space="preserve">
     <value>Shifting Citadel</value>
   </data>
-  <data name = "Tower_DLC">
+  <data name="Tower_DLC" xml:space="preserve">
     <value>Botanical Research Tower</value>
   </data>
-  <data name = "Amulet_BrazenAlloy">
+  <data name="Amulet_BrazenAlloy" xml:space="preserve">
     <value>Brazen Amalgam</value>
   </data>
-  <data name = "Amulet_CanineKeepsake">
+  <data name="Amulet_CanineKeepsake" xml:space="preserve">
     <value>Canine Keepsake</value>
   </data>
-  <data name = "Amulet_CessationBulbel">
+  <data name="Amulet_CessationBulbel" xml:space="preserve">
     <value>Cessation Bulbel</value>
   </data>
-  <data name = "Amulet_ChefMedal">
+  <data name="Amulet_ChefMedal" xml:space="preserve">
     <value>Chef Medal</value>
   </data>
-  <data name = "Amulet_CrisisCore">
+  <data name="Amulet_CrisisCore" xml:space="preserve">
     <value>Crisis Core</value>
   </data>
-  <data name = "Amulet_EchoChamber">
+  <data name="Amulet_EchoChamber" xml:space="preserve">
     <value>Echo Chamber</value>
   </data>
-  <data name = "Amulet_ExhaustValve">
+  <data name="Amulet_ExhaustValve" xml:space="preserve">
     <value>Exhaust Valve</value>
   </data>
-  <data name = "Amulet_HangmansNoose">
+  <data name="Amulet_HangmansNoose" xml:space="preserve">
     <value>Hangmans Noose</value>
   </data>
-  <data name = "Amulet_InsipidTalon">
+  <data name="Amulet_InsipidTalon" xml:space="preserve">
     <value>Insipid Talon</value>
   </data>
-  <data name = "Amulet_OrnateAmulet">
+  <data name="Amulet_OrnateAmulet" xml:space="preserve">
     <value>Ornate Amulet</value>
   </data>
-  <data name = "Amulet_QuantumMemory">
+  <data name="Amulet_QuantumMemory" xml:space="preserve">
     <value>Quantum Memory</value>
   </data>
-  <data name = "Amulet_ReactionChain">
+  <data name="Amulet_ReactionChain" xml:space="preserve">
     <value>Reaction Chain</value>
   </data>
-  <data name = "Amulet_RelayDevice">
+  <data name="Amulet_RelayDevice" xml:space="preserve">
     <value>Relay Device</value>
   </data>
-  <data name = "Amulet_ShortCircuit">
+  <data name="Amulet_ShortCircuit" xml:space="preserve">
     <value>Short Circuit</value>
   </data>
-  <data name = "Amulet_TimekeepersForfeit">
+  <data name="Amulet_TimekeepersForfeit" xml:space="preserve">
     <value>Timekeepers Forfeit</value>
   </data>
-  <data name = "Amulet_VolatileCartridge">
+  <data name="Amulet_VolatileCartridge" xml:space="preserve">
     <value>Volatile Cartridge</value>
   </data>
-  <data name = "Amulet_ZeroHour">
+  <data name="Amulet_ZeroHour" xml:space="preserve">
     <value>Zero Hour</value>
   </data>
-  <data name = "Armor_NerudWarrior">
+  <data name="Armor_NerudWarrior" xml:space="preserve">
     <value>Phetyr</value>
   </data>
-  <data name = "Armor_Warden">
+  <data name="Armor_Warden" xml:space="preserve">
     <value>Warden</value>
   </data>
-  <data name = "Armor_WeldingGoggles">
+  <data name="Armor_WeldingGoggles" xml:space="preserve">
     <value>Welding Goggles</value>
   </data>
   <data name="Item_HiddenContainer_Material_Engram_Warden" xml:space="preserve">
     <value>Warden</value>
   </data>
-  <data name = "MetaGem_Detonator">
+  <data name="MetaGem_Detonator" xml:space="preserve">
     <value>Detonator</value>
   </data>
-  <data name = "MetaGem_HiddenPower">
+  <data name="MetaGem_HiddenPower" xml:space="preserve">
     <value>Hidden Power</value>
   </data>
-  <data name = "MetaGem_HyperCharger">
+  <data name="MetaGem_HyperCharger" xml:space="preserve">
     <value>Hyper Charger</value>
   </data>
-  <data name = "MetaGem_Insulator">
+  <data name="MetaGem_Insulator" xml:space="preserve">
     <value>Insulator</value>
   </data>
-  <data name = "MetaGem_Repercussion">
+  <data name="MetaGem_Repercussion" xml:space="preserve">
     <value>Repercussion</value>
   </data>
-  <data name = "MetaGem_SuperHeated">
+  <data name="MetaGem_SuperHeated" xml:space="preserve">
     <value>Superheated</value>
   </data>
-  <data name = "MetaGem_VolatileStrike">
+  <data name="MetaGem_VolatileStrike" xml:space="preserve">
     <value>Volatile Strike</value>
   </data>
-  <data name = "Mod_HarvesterBots">
+  <data name="Mod_HarvesterBots" xml:space="preserve">
     <value>Harvester Bots</value>
   </data>
-  <data name = "Mod_ShieldingShot">
+  <data name="Mod_ShieldingShot" xml:space="preserve">
     <value>Shielding Shot</value>
   </data>
-  <data name = "Mod_Voidlight">
+  <data name="Mod_Voidlight" xml:space="preserve">
     <value>Voidlight</value>
   </data>
-  <data name = "Quest_Hidden_Item_SparkWard13">
+  <data name="Quest_Hidden_Item_SparkWard13" xml:space="preserve">
     <value>Rescue Spark</value>
   </data>
-  <data name = "Relic_Consumable_GossamerHeart">
+  <data name="Relic_Consumable_GossamerHeart" xml:space="preserve">
     <value>Gossamer Heart</value>
   </data>
-  <data name = "Relic_Consumable_LatentHeart">
+  <data name="Relic_Consumable_LatentHeart" xml:space="preserve">
     <value>Latent Heart</value>
   </data>
-  <data name = "Ring_BreachAccelerator">
+  <data name="Ring_BreachAccelerator" xml:space="preserve">
     <value>Breach Accelerator</value>
   </data>
-  <data name = "Ring_BurdenOfTheExcavator">
+  <data name="Ring_BurdenOfTheExcavator" xml:space="preserve">
     <value>Burden of the Excavator</value>
   </data>
-  <data name = "Ring_BurdenOfTheProtector">
+  <data name="Ring_BurdenOfTheProtector" xml:space="preserve">
     <value>Burden of the Protector</value>
   </data>
-  <data name = "Ring_BypassPrimer">
+  <data name="Ring_BypassPrimer" xml:space="preserve">
     <value>Bypass Primer</value>
   </data>
-  <data name = "Ring_ClearHalo">
+  <data name="Ring_ClearHalo" xml:space="preserve">
     <value>Clear Halo</value>
   </data>
-  <data name = "Ring_CombatShieldGenerator">
+  <data name="Ring_CombatShieldGenerator" xml:space="preserve">
     <value>Combat Shield Generator</value>
   </data>
-  <data name = "Ring_CustodiansBastion">
+  <data name="Ring_CustodiansBastion" xml:space="preserve">
     <value>Custodian's Bastion</value>
   </data>
-  <data name = "Ring_DemolitionCoil">
+  <data name="Ring_DemolitionCoil" xml:space="preserve">
     <value>Demolition Coil</value>
   </data>
-  <data name = "Ring_DetonatingCord">
+  <data name="Ring_DetonatingCord" xml:space="preserve">
     <value>Detonating Cord</value>
   </data>
-  <data name = "Ring_DisasterConverter">
+  <data name="Ring_DisasterConverter" xml:space="preserve">
     <value>Disaster Converter</value>
   </data>
-  <data name = "Ring_EmpoweringLoop">
+  <data name="Ring_EmpoweringLoop" xml:space="preserve">
     <value>Empowering Loop</value>
   </data>
-  <data name = "Ring_FeedingTube">
+  <data name="Ring_FeedingTube" xml:space="preserve">
     <value>Feeding Tube</value>
   </data>
-  <data name = "Ring_ForceMultiplier">
+  <data name="Ring_ForceMultiplier" xml:space="preserve">
     <value>Force Multiplier</value>
   </data>
-  <data name = "Ring_ImpactAugment">
+  <data name="Ring_ImpactAugment" xml:space="preserve">
     <value>Impact Augment</value>
   </data>
-  <data name = "Ring_InfinityPocket">
+  <data name="Ring_InfinityPocket" xml:space="preserve">
     <value>Infinity Pocket</value>
   </data>
-  <data name = "Ring_MortalCoil">
+  <data name="Ring_MortalCoil" xml:space="preserve">
     <value>Mortal Coil</value>
   </data>
-  <data name = "Ring_NanoFiberStrand">
+  <data name="Ring_NanoFiberStrand" xml:space="preserve">
     <value>Nanofiber Strand</value>
   </data>
-  <data name = "Ring_NightmareSigil">
+  <data name="Ring_NightmareSigil" xml:space="preserve">
     <value>Nightmare Sigil</value>
   </data>
-  <data name = "Ring_PhantomPain">
+  <data name="Ring_PhantomPain" xml:space="preserve">
     <value>Ring Of Phantom Pain</value>
   </data>
-  <data name = "Ring_RingOfAshes">
+  <data name="Ring_RingOfAshes" xml:space="preserve">
     <value>Ring of Ashes</value>
   </data>
-  <data name = "Ring_RingOfBones">
+  <data name="Ring_RingOfBones" xml:space="preserve">
     <value>Ring of Bones</value>
   </data>
-  <data name = "Ring_SecurityHalfMeasure">
+  <data name="Ring_SecurityHalfMeasure" xml:space="preserve">
     <value>Security Half-Measure</value>
   </data>
-  <data name = "Ring_ShieldAlternator">
+  <data name="Ring_ShieldAlternator" xml:space="preserve">
     <value>Shield Alternator</value>
   </data>
-  <data name = "Ring_SiphonFilter">
+  <data name="Ring_SiphonFilter" xml:space="preserve">
     <value>Siphon Filter</value>
   </data>
-  <data name = "Ring_SpiritAlternator">
+  <data name="Ring_SpiritAlternator" xml:space="preserve">
     <value>Spirit Alternator</value>
   </data>
-  <data name = "Ring_StoneOfRevelation">
+  <data name="Ring_StoneOfRevelation" xml:space="preserve">
     <value>Stone of Revelation</value>
   </data>
-  <data name = "Ring_StrandOfSinew">
+  <data name="Ring_StrandOfSinew" xml:space="preserve">
     <value>Strand of Sinew</value>
   </data>
-  <data name = "Ring_SymbolOfRoyalty">
+  <data name="Ring_SymbolOfRoyalty" xml:space="preserve">
     <value>Symbol of Royalty</value>
   </data>
-  <data name = "Ring_ToleranceBand">
+  <data name="Ring_ToleranceBand" xml:space="preserve">
     <value>Tolerance Band</value>
   </data>
-  <data name = "Ring_TransientCord">
+  <data name="Ring_TransientCord" xml:space="preserve">
     <value>Transient Cord</value>
   </data>
-  <data name = "Ring_WiredInhibitor">
+  <data name="Ring_WiredInhibitor" xml:space="preserve">
     <value>Wired Inhibitor</value>
   </data>
-  <data name = "Trait_Barrier">
+  <data name="Trait_Barrier" xml:space="preserve">
     <value>Barrier</value>
   </data>
-  <data name = "Trait_Insight">
+  <data name="Trait_Insight" xml:space="preserve">
     <value>Insight</value>
   </data>
-  <data name = "Trait_Perception">
+  <data name="Trait_Perception" xml:space="preserve">
     <value>Perception</value>
   </data>
-  <data name = "Trait_Preservation">
+  <data name="Trait_Preservation" xml:space="preserve">
     <value>Preservation</value>
   </data>
-  <data name = "Weapon_BlackGreatsword">
+  <data name="Weapon_BlackGreatsword" xml:space="preserve">
     <value>Black Greatsword</value>
   </data>
-  <data name = "Weapon_DarkMatterGauntlets">
+  <data name="Weapon_DarkMatterGauntlets" xml:space="preserve">
     <value>Dark Matter Guantlets</value>
   </data>
-  <data name = "Weapon_Genesis">
+  <data name="Weapon_Genesis" xml:space="preserve">
     <value>Genesis</value>
   </data>
-  <data name = "Weapon_HarvesterScythe">
+  <data name="Weapon_HarvesterScythe" xml:space="preserve">
     <value>Harvester Scythe</value>
   </data>
-  <data name = "Weapon_Monorail">
+  <data name="Weapon_Monorail" xml:space="preserve">
     <value>Monorail</value>
   </data>
-  <data name = "Weapon_Redeemer">
+  <data name="Weapon_Redeemer" xml:space="preserve">
     <value>Redeemer</value>
   </data>
-  <data name = "Weapon_RepairTool">
+  <data name="Weapon_RepairTool" xml:space="preserve">
     <value>Repair Tool</value>
+  </data>
+  <data name="Stagnant Manufactory" xml:space="preserve">
+    <value>Stagnant Manufactory</value>
+  </data>
+  <data name="Logistics Bridge" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Goddess's Rest" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Deserted Atelier" xml:space="preserve">
+    <value />
   </data>
 </root>

@@ -1,5 +1,64 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
@@ -53,10 +112,10 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=7.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AbandonedRuins" xml:space="preserve">
     <value>Заброшенные руины</value>
@@ -66,6 +125,9 @@
   </data>
   <data name="Alchemist" xml:space="preserve">
     <value>Алхимик</value>
+  </data>
+  <data name="Amulets" xml:space="preserve">
+    <value>Амулеты</value>
   </data>
   <data name="Amulet_AbrasiveWhetstone" xml:space="preserve">
     <value>Точильный камень</value>
@@ -156,6 +218,9 @@
   </data>
   <data name="Amulet_KineticShieldExchanger" xml:space="preserve">
     <value>Преобразователь кинетического щита</value>
+  </data>
+  <data name="Amulet_KoaraKuri" xml:space="preserve">
+    <value>{Amulet_KuriKuriCharm}</value>
   </data>
   <data name="Amulet_KuriKuriCharm" xml:space="preserve">
     <value>Амулет кури-кури</value>
@@ -733,6 +798,9 @@
   <data name="RemainsBelow" xml:space="preserve">
     <value>Беспокойный дух</value>
   </data>
+  <data name="Rings" xml:space="preserve">
+    <value>Кольца</value>
+  </data>
   <data name="Ring_AcidStone" xml:space="preserve">
     <value>Кислотный камень</value>
   </data>
@@ -780,6 +848,9 @@
   </data>
   <data name="Ring_BloodJewel" xml:space="preserve">
     <value>Кровавый самоцвет</value>
+  </data>
+  <data name="Ring_BloodStamp" xml:space="preserve">
+    <value>{Ring_WaxSealedRing}</value>
   </data>
   <data name="Ring_BloodTingedRing" xml:space="preserve">
     <value>Окровавленное кольцо</value>
@@ -957,6 +1028,9 @@
   </data>
   <data name="Ring_LithicSignet" xml:space="preserve">
     <value>Каменная печатка</value>
+  </data>
+  <data name="Ring_LivingStone" xml:space="preserve">
+    <value>{Ring_LithicSignet}</value>
   </data>
   <data name="Ring_LodestoneRing" xml:space="preserve">
     <value>Магнитное кольцо</value>
@@ -1540,6 +1614,9 @@
   <data name="Weapon_WorldsEdge" xml:space="preserve">
     <value>Край мира</value>
   </data>
+  <data name="WorldBoss" xml:space="preserve">
+    <value>Мировой босс</value>
+  </data>
   <data name="World_Earth" xml:space="preserve">
     <value>Земля</value>
   </data>
@@ -1567,22 +1644,16 @@
   <data name="Armor_Arcanist" xml:space="preserve">
     <value>Лабиринт</value>
   </data>
-  <data name="Amulet_KoaraKuri" xml:space="preserve">
-    <value>{Amulet_KuriKuriCharm}</value>
+  <data name="Stagnant Manufactory" xml:space="preserve">
+    <value />
   </data>
-  <data name="Amulets" xml:space="preserve">
-    <value>Амулеты</value>
+  <data name="Logistics Bridge" xml:space="preserve">
+    <value />
   </data>
-  <data name="Ring_BloodStamp" xml:space="preserve">
-    <value>{Ring_WaxSealedRing}</value>
+  <data name="Goddess's Rest" xml:space="preserve">
+    <value />
   </data>
-  <data name="Ring_LivingStone" xml:space="preserve">
-    <value>{Ring_LithicSignet}</value>
-  </data>
-  <data name="Rings" xml:space="preserve">
-    <value>Кольца</value>
-  </data>
-  <data name="WorldBoss" xml:space="preserve">
-    <value>Мировой босс</value>
+  <data name="Deserted Atelier" xml:space="preserve">
+    <value />
   </data>
 </root>

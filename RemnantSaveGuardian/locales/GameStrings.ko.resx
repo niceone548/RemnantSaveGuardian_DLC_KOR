@@ -2265,12 +2265,123 @@
   <data name="Mod_ChainOfCommand" xml:space="preserve">
     <value>지휘 계통</value>
   </data>
+  <data name="Amulet_WornDogTags" xml:space="preserve">
+    <value>닳은 인식표 (Worn Dog Tags)</value>
+  </data>
   <data name="Amulet_ZeroDivide" xml:space="preserve">
     <value>제로 디바이드 (Zero Divide)</value>
+  </data>
+  <data name="Amulet_ReedOfTheVaunnt" xml:space="preserve">
+    <value>바운트 리드 (Reed of Vaunnt)</value>
+  </data>
+  <data name="Amulet_SoulStone" xml:space="preserve">
+    <value>영혼석 (Soul Stone)</value>
+  </data>
+  <data name="Amulet_ProfaneSoulStone" xml:space="preserve">
+    <value>불경한 영혼석 (Profane Soul Stone)</value>
+  </data>
+  <data name="Amulet_StoneshapersChisel" xml:space="preserve">
+    <value>돌 형성자의 끌 (Stoneshaper's Chisel)</value>
+  </data>
+  <data name="Amulet_MoonStone" xml:space="preserve">
+    <value>월석 (Moon Stone)</value>
+  </data>
+  <data name="Amulet_MagnifyingGlass" xml:space="preserve">
+    <value>돋보기 (Magnifying Galss)</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="Amulet_FragrantThorn" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
+  </data>
+  <data name="Amulet_EchoOfTheForest" xml:space="preserve">
+    <value>숲의 메아리 (Echo of the Forest)</value>
+  </data>
+  <data name="Amulet_CervineKeepsake" xml:space="preserve">
+    <value>서바인 기념품 (Cervine Keepsake)</value>
+  </data>
+  <data name="Ring_ThalosEyelet" xml:space="preserve">
+    <value>탈로스 아일릿 (Thalos Eyelet)</value>
+  </data>
+  <data name="Ring_TearOfLydusa" xml:space="preserve">
+    <value>리두사의 눈물 (Tear of Lydusa)</value>
+  </data>
+  <data name="Ring_SoulFeast" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Ring_SealedResinLoop" xml:space="preserve">
+    <value>밀폐된 레진 루프 (Sealed Resion Loop)</value>
+  </data>
+  <data name="Ring_BurdenOfTheMesmer" xml:space="preserve">
+    <value>메스머의 부담 (Burden of the Mesmer)</value>
+  </data>
+  <data name="Ring_RallyBand" xml:space="preserve">
+    <value>랠리 밴드 (Rally Band)</value>
+  </data>
+  <data name="LuminousValeStory" xml:space="preserve">
+    <value>발광의 계곡 (Numinous Vale)</value>
+  </data>
+  <data name="AncientCanopyStory" xml:space="preserve">
+    <value>고대 캐노피 (Ancient Canopy)</value>
+  </data>
+  <data name="Ring_GulSignet" xml:space="preserve">
+    <value>굴 인장 (Gul Signet)</value>
+  </data>
+  <data name="Ring_FloodlitDiamond" xml:space="preserve">
+    <value>조명등 다이아몬드 (Floodlit Diamond)</value>
+  </data>
+  <data name="Ring_BloodlessKingsVow" xml:space="preserve">
+    <value>핏줄 없는 왕의 맹세 (Bloodless King's Vow)</value>
+  </data>
+  <data name="Ring_DarkSeaArmadaCrest" xml:space="preserve">
+    <value>암흑해 함대 문장 (Dark Sea Armada Crest)</value>
+  </data>
+  <data name="Ring_FeatheryBinding" xml:space="preserve">
+    <value>솜털 같은 속박 (Feathery Binding)</value>
+  </data>
+  <data name="Ring_PanWarBand" xml:space="preserve">
+    <value>판 워밴드 (Pan War Band)</value>
+  </data>
+  <data name="Armor_BloodlessCrown" xml:space="preserve">
+    <value>핏줄 없는 왕관 (Bloodless Crown)</value>
+  </data>
+  <data name="Weapon_Mirage" xml:space="preserve">
+    <value>신기루 (Mirage)</value>
+  </data>
+  <data name="Weapon_CrystalStaff" xml:space="preserve">
+    <value>크리스털 지팡이 (Crystal Staff)</value>
+  </data>
+  <data name="Mod_FlyingBombTrap" xml:space="preserve">
+    <value>날아다니는 폭탄 함정 (Flying Bomb Trap)</value>
+  </data>
+  <data name="MetaGem_PressurePoint" xml:space="preserve">
+    <value>급소 (Pressure Point)</value>
+  </data>
+  <data name="MetaGem_NearSighted" xml:space="preserve">
+    <value>근시안적 (Near-Sighted)</value>
+  </data>
+  <data name="Relic_Consumable_ProfaneHeart" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Relic_Consumable_BloodlessHeart" xml:space="preserve">
+    <value>피도 눈물도 없는 심장 (Bloodless Heart)</value>
+  </data>
+  <data name="MetaGem_SearingWounds" xml:space="preserve">
+    <value>타는 듯한 상처 (Searing Wounds)</value>
+  </data>
+  <data name="MetaGem_Gladiator" xml:space="preserve">
+    <value>검투사 (Gladiator)</value>
+  </data>
+  <data name="MetaGem_BattleMage" xml:space="preserve">
+    <value>전투 마법사 (Battle Mage)</value>
+  </data>
+  <data name="MetaGem_Spellweaver" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="AgronomySector" xml:space="preserve">
+    <value>농경학 지구 (Agronomy Sector)</value>
+  </data>
+  <data name="RepairLab" xml:space="preserve">
+    <value>수리 연구실 (Repair Lab)</value>
   </data>
   <data name="Amulet_BrazenAlloy" xml:space="preserve">
     <value>황동 아말감 (Brazen Amalgam)</value>
@@ -2281,11 +2392,38 @@
   <data name="Amulet_ReactionChain" xml:space="preserve">
     <value>연쇄 반응 (Reaction Chain)</value>
   </data>
+  <data name="Armor_NerudWarrior" xml:space="preserve">
+    <value>페트리 (Phetyr)</value>
+  </data>
+  <data name="MetaGem_HiddenPower" xml:space="preserve">
+    <value>숨은 힘 (Hidden Power)</value>
+  </data>
+  <data name="MetaGem_HyperCharger" xml:space="preserve">
+    <value>하이퍼 차저 (Hyper Charger)</value>
+  </data>
   <data name="MetaGem_SuperHeated" xml:space="preserve">
     <value>초과열 (Superheadted)</value>
   </data>
+  <data name="MetaGem_VolatileStrike" xml:space="preserve">
+    <value>휘발성 타격 (Volatile Strike)</value>
+  </data>
+  <data name="Ring_BurdenOfTheExcavator" xml:space="preserve">
+    <value>발굴자의 부담 (Burden of the Excavator)</value>
+  </data>
+  <data name="Ring_BurdenOfTheProtector" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Ring_SiphonFilter" xml:space="preserve">
+    <value>흡인 필터 (Siphon Filter)</value>
+  </data>
   <data name="Trait_Perception" xml:space="preserve">
-    <value>인식(Perception)</value>
+    <value>인식 (Perception)</value>
+  </data>
+  <data name="Weapon_BlackGreatsword" xml:space="preserve">
+    <value>검은 대검 (Black Greatesword)</value>
+  </data>
+  <data name="Weapon_RepairTool" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
   </data>
   <data name="Abyssal Rift" xml:space="preserve">
     <value>심해의 균열</value>
@@ -2586,5 +2724,32 @@
   </data>
   <data name="Relic_Consumable_PaperHeart_Notes" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
+  </data>
+  <data name="Alepsis" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Ring_AmberMoonstone_Notes" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Amulet_EffigyPendant_Notes" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Ring_PanMageSigil_Notes" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Amulet_GiftOfEuphoria_Notes" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Stagnant Manufactory" xml:space="preserve">
+    <value>정체된 공장</value>
+  </data>
+  <data name="Logistics Bridge" xml:space="preserve">
+    <value>물류용 다리</value>
+  </data>
+  <data name="Goddess's Rest" xml:space="preserve">
+    <value>여신의 휴식 (Goddess's Rest)</value>
+  </data>
+  <data name="Deserted Atelier" xml:space="preserve">
+    <value>버려진 아틀리에 (Deserted Atelier)</value>
   </data>
 </root>
