@@ -123,14 +123,8 @@
   <data name="AboveBelow" xml:space="preserve">
     <value>집행자</value>
   </data>
-  <data name="Abyssal Rift" xml:space="preserve">
-    <value>심해의 균열</value>
-  </data>
   <data name="Alchemist" xml:space="preserve">
     <value>연금술사</value>
-  </data>
-  <data name="Alepsis-Taura" xml:space="preserve">
-    <value>알렙시스-타우라</value>
   </data>
   <data name="AllFather" xml:space="preserve">
     <value>{AllFatherStory}</value>
@@ -267,9 +261,6 @@
   <data name="Amulet_NecklaceOfSupremacy" xml:space="preserve">
     <value>우월의 목걸이</value>
   </data>
-  <data name="Amulet_NightmareSpiral" xml:space="preserve">
-    <value>악몽의 나선</value>
-  </data>
   <data name="Amulet_NightweaversGrudge" xml:space="preserve">
     <value>나이트위버의 원한</value>
   </data>
@@ -309,9 +300,6 @@
   <data name="Amulet_SilverRibbon" xml:space="preserve">
     <value>은 리본</value>
   </data>
-  <data name="Amulet_SoulAnchor" xml:space="preserve">
-    <value>영혼의 닻</value>
-  </data>
   <data name="Amulet_SpiritWispAmulet" xml:space="preserve">
     <value>영혼 위습 목걸이</value>
   </data>
@@ -329,9 +317,6 @@
   </data>
   <data name="Amulet_VengeanceIdol" xml:space="preserve">
     <value>복수의 우상</value>
-  </data>
-  <data name="Amulet_VoidIdol" xml:space="preserve">
-    <value>공허의 우상</value>
   </data>
   <data name="Amulet_WeightlessWeight" xml:space="preserve">
     <value>무중력 무게</value>
@@ -417,14 +402,8 @@
   <data name="Armor_Void" xml:space="preserve">
     <value>공허</value>
   </data>
-  <data name="Ascension Spire" xml:space="preserve">
-    <value>승천 첨탑</value>
-  </data>
   <data name="AshenWasteland" xml:space="preserve">
     <value>잿빛 황무지</value>
-  </data>
-  <data name="Astropath's Respite" xml:space="preserve">
-    <value>아스트로패스의 유예</value>
   </data>
   <data name="Asylum" xml:space="preserve">
     <value>머로우 요양원</value>
@@ -441,20 +420,11 @@
   <data name="Base" xml:space="preserve">
     <value>지구</value>
   </data>
-  <data name="Beatific Gallery" xml:space="preserve">
-    <value>지복의 화랑</value>
-  </data>
   <data name="BeatificPalace" xml:space="preserve">
-    <value>지복의 궁전</value>
-  </data>
-  <data name="Beatific Palace" xml:space="preserve">
     <value>지복의 궁전</value>
   </data>
   <data name="BlackAndWhite" xml:space="preserve">
     <value>불꽃</value>
-  </data>
-  <data name="Blackened Citadel" xml:space="preserve">
-    <value>그을린 요새</value>
   </data>
   <data name="BlackHole" xml:space="preserve">
     <value>중력 이상</value>
@@ -468,38 +438,20 @@
   <data name="BoneHarvesterLair" xml:space="preserve">
     <value>Monster in the Drain</value>
   </data>
-  <data name="Boss" xml:space="preserve">
-    <value>월드 보스</value>
-  </data>
   <data name="Brabus" xml:space="preserve">
     <value>브라버스</value>
-  </data>
-  <data name="Briella's Reverie" xml:space="preserve">
-    <value>브리엘라의 몽상</value>
-  </data>
-  <data name="Briella's Garden" xml:space="preserve">
-    <value>브리엘라의 정원</value>
   </data>
   <data name="BriellasGarden" xml:space="preserve">
     <value>브리엘라의 정원</value>
   </data>
-  <data name="Brocwithe Quarter" xml:space="preserve">
-    <value>브록위트 쿼터</value>
-  </data>
   <data name="BrokenTomb" xml:space="preserve">
     <value>광야의 사냥꾼 / 비틀린 궁수</value>
-  </data>
-  <data name="Butcher's Quarter" xml:space="preserve">
-    <value>도살업자 구역</value>
   </data>
   <data name="ButchersQuarter" xml:space="preserve">
     <value>도살업자 구역</value>
   </data>
   <data name="Cass" xml:space="preserve">
     <value>캐스</value>
-  </data>
-  <data name="Cathedral of Omens" xml:space="preserve">
-    <value>전조의 대성당</value>
   </data>
   <data name="CathedralOfSeasons" xml:space="preserve">
     <value>전조의 대성당</value>
@@ -519,12 +471,6 @@
   <data name="CottonsKiln" xml:space="preserve">
     <value>Cotton's Kiln</value>
   </data>
-  <data name="Council Chamber" xml:space="preserve">
-    <value>의회실</value>
-  </data>
-  <data name="Council Tribunal" xml:space="preserve">
-    <value>의회실</value>
-  </data>
   <data name="CouncilChamber" xml:space="preserve">
     <value>의회실</value>
   </data>
@@ -536,9 +482,6 @@
   </data>
   <data name="DarkConduit" xml:space="preserve">
     <value>어두운 통로</value>
-  </data>
-  <data name="Dormant N'Erudian Facility" xml:space="preserve">
-    <value>휴면 네루디언 시설</value>
   </data>
   <data name="DormantNErudianFacility" xml:space="preserve">
     <value>휴면 네루디언 시설</value>
@@ -567,9 +510,6 @@
   <data name="Engrams" xml:space="preserve">
     <value>엔그램</value>
   </data>
-  <data name="Event" xml:space="preserve">
-    <value>이벤트</value>
-  </data>
   <data name="Explorer" xml:space="preserve">
     <value>탐험가</value>
   </data>
@@ -579,9 +519,6 @@
   <data name="Extraction" xml:space="preserve">
     <value>보급선</value>
   </data>
-  <data name="Fae" xml:space="preserve">
-    <value>로솜</value>
-  </data>
   <data name="FaeArchon" xml:space="preserve">
     <value>마지스터 덜레인</value>
   </data>
@@ -590,9 +527,6 @@
   </data>
   <data name="FaelinFaerlin" xml:space="preserve">
     <value>파에린</value>
-  </data>
-  <data name="FaelinFaerlin_POI" xml:space="preserve">
-    <value>파에린 / 파엘린</value>
   </data>
   <data name="Faerin" xml:space="preserve">
     <value>파에린</value>
@@ -606,19 +540,10 @@
   <data name="FaeWarriorRing" xml:space="preserve">
     <value>파에 전사 반지</value>
   </data>
-  <data name="Faithless Thicket" xml:space="preserve">
-    <value>불신의 수풀</value>
+  <data name="Flautist" xml:space="preserve">
+    <value>루트 넥서스</value>
   </data>
-  <data name="Foesaken Quarter" xml:space="preserve">
-    <value>버림받은 구역</value>
-  </data>
-  <data name="Forgotten Prison" xml:space="preserve">
-    <value>잊힌 감옥</value>
-  </data>
-    <data name="ForgottenField" xml:space="preserve">
-    <value>잊힌 들판</value>
-  </data>
-  <data name="Forgotten Field" xml:space="preserve">
+  <data name="ForgottenField" xml:space="preserve">
     <value>잊힌 들판</value>
   </data>
   <data name="ForgottenPrison" xml:space="preserve">
@@ -626,9 +551,6 @@
   </data>
   <data name="Gems" xml:space="preserve">
     <value>변이체</value>
-  </data>
-  <data name="Gilded Chambers" xml:space="preserve">
-    <value>금빛 방</value>
   </data>
   <data name="GildedChambers" xml:space="preserve">
     <value>금빛 방</value>
@@ -642,20 +564,17 @@
   <data name="Handler" xml:space="preserve">
     <value>핸들러</value>
   </data>
-  <data name="Harvester's Reach" xml:space="preserve">
-    <value>수확자의 구역</value>
-  </data>
   <data name="HarvestersReach" xml:space="preserve">
     <value>수확자의 구역</value>
   </data>
   <data name="Hatchery" xml:space="preserve">
     <value>시조</value>
   </data>
-  <data name="Hewdas Clock" xml:space="preserve">
-    <value>휴다스 시계</value>
+  <data name="HiddenChamber" xml:space="preserve">
+    <value>Hidden Chamber</value>
   </data>
-  <data name="Home" xml:space="preserve">
-    <value>거점</value>
+  <data name="HiddenMaze" xml:space="preserve">
+    <value>미로</value>
   </data>
   <data name="Hunter" xml:space="preserve">
     <value>사냥꾼</value>
@@ -663,23 +582,17 @@
   <data name="ImperialGardens" xml:space="preserve">
     <value>제국 정원</value>
   </data>
-  <data name="Imperial Gardens" xml:space="preserve">
-    <value>제국 정원</value>
-  </data>
   <data name="IndignantFetish" xml:space="preserve">
     <value>Indignant Fetish</value>
-  </data>
-  <data name="Injectable" xml:space="preserve">
-    <value>추가 이벤트</value>
   </data>
   <data name="Invader" xml:space="preserve">
     <value>침략자</value>
   </data>
-  <data name="Ironborough" xml:space="preserve">
-    <value>아이언보로우</value>
-  </data>
   <data name="IronGiant" xml:space="preserve">
     <value>내비게이션 룸</value>
+  </data>
+  <data name="IslandJump" xml:space="preserve">
+    <value>Island Jump Puzzle</value>
   </data>
   <data name="Item_HiddenContainer_Material_Engram_Alchemist" xml:space="preserve">
     <value>연금술사</value>
@@ -711,31 +624,16 @@
   <data name="Item_HiddenContainer_Material_Engram_Summoner" xml:space="preserve">
     <value>소환사</value>
   </data>
-  <data name="Jungle" xml:space="preserve">
-    <value>아에샤</value>
-  </data>
   <data name="KaeulasRest" xml:space="preserve">
-    <value>카에울라의 휴식처</value>
-  </data>
-  <data name="Kaeula's Rest" xml:space="preserve">
     <value>카에울라의 휴식처</value>
   </data>
   <data name="KoaraKuriNest" xml:space="preserve">
     <value>코아라 쿠리 둥지</value>
   </data>
-  <data name="Koara Kuri Nest" xml:space="preserve">
-    <value>코아라 쿠리 둥지</value>
-  </data>
-  <data name="Labyrinth" xml:space="preserve">
-    <value>미궁</value>
-  </data>
   <data name="LaemirsLyceum" xml:space="preserve">
     <value>Laemirs' Lyceum</value>
   </data>
   <data name="LemarkDistrict" xml:space="preserve">
-    <value>레마크 구역</value>
-  </data>
-  <data name="Lemark District" xml:space="preserve">
     <value>레마크 구역</value>
   </data>
   <data name="Library" xml:space="preserve">
@@ -750,13 +648,7 @@
   <data name="Main" xml:space="preserve">
     <value>지구</value>
   </data>
-  <data name="Malefic Palace" xml:space="preserve">
-    <value>사악한 궁전</value>
-  </data>
   <data name="MaleficGallery" xml:space="preserve">
-    <value>사악한 화랑</value>
-  </data>
-  <data name="Malefic Gallery" xml:space="preserve">
     <value>사악한 화랑</value>
   </data>
   <data name="ManyFaces" xml:space="preserve">
@@ -833,9 +725,6 @@
   </data>
   <data name="MetaGem_VengefulStrike" xml:space="preserve">
     <value>복수의 일격</value>
-  </data>
-  <data name="MiniBoss" xml:space="preserve">
-    <value>보스 던전</value>
   </data>
   <data name="Mods" xml:space="preserve">
     <value>개조체</value>
@@ -921,12 +810,6 @@
   <data name="Mod_Witchfire" xml:space="preserve">
     <value>마녀불</value>
   </data>
-  <data name="Morrow Parish" xml:space="preserve">
-    <value>머로우 교구</value>
-  </data>
-  <data name="Morrow Sanatorium" xml:space="preserve">
-    <value>머로우 요양원</value>
-  </data>
   <data name="MotherMind" xml:space="preserve">
     <value>마더 마인드</value>
   </data>
@@ -935,9 +818,6 @@
   </data>
   <data name="Mutators" xml:space="preserve">
     <value>변이체</value>
-  </data>
-  <data name="Nerud" xml:space="preserve">
-    <value>네루드</value>
   </data>
   <data name="NerudGuardian" xml:space="preserve">
     <value>샤할라</value>
@@ -954,31 +834,16 @@
   <data name="OraclesRefuge" xml:space="preserve">
     <value>계시의 피난처</value>
   </data>
-  <data name="Oracle's Refuge" xml:space="preserve">
-    <value>계시의 피난처</value>
-  </data>
   <data name="OverworldFog" xml:space="preserve">
     <value>외곽 안개</value>
   </data>
   <data name="OverworldPOI" xml:space="preserve">
     <value>월드 POI</value>
   </data>
-  <data name="Palace Courtyard" xml:space="preserve">
-    <value>궁전 안뜰</value>
-  </data>
   <data name="Phantom" xml:space="preserve">
     <value>아스트로패스</value>
   </data>
-  <data name="ThePhantomWasteland" xml:space="preserve">
-    <value>혼령 황무지</value>
-  </data>
-  <data name="Phantom Wasteland" xml:space="preserve">
-    <value>혼령 황무지</value>
-  </data>
   <data name="PostulantsParlor" xml:space="preserve">
-    <value>성직 청원자의 객실</value>
-  </data>
-  <data name="Postulant's Parlor" xml:space="preserve">
     <value>성직 청원자의 객실</value>
   </data>
   <data name="Quests" xml:space="preserve">
@@ -1005,9 +870,6 @@
   <data name="RavagersLair" xml:space="preserve">
     <value>약탈자의 굴</value>
   </data>
-  <data name="Ravager's Lair" xml:space="preserve">
-    <value>약탈자의 굴</value>
-  </data>
   <data name="RavagerStory" xml:space="preserve">
     <value>약탈자와 사슴</value>
   </data>
@@ -1022,9 +884,6 @@
   </data>
   <data name="Relic_Consumable_BloomingHeart" xml:space="preserve">
     <value>만개하는 심장</value>
-  </data>
-  <data name="Relic_Consumable_ConstrainedHeart" xml:space="preserve">
-    <value>억제된 심장</value>
   </data>
   <data name="Relic_Consumable_CrystalHeart" xml:space="preserve">
     <value>크리스털 하트</value>
@@ -1079,9 +938,6 @@
   </data>
   <data name="RemainsBelow" xml:space="preserve">
     <value>초조한 영혼</value>
-  </data>
-  <data name="Retreat's Horizon" xml:space="preserve">
-    <value>니므에의 은신처</value>
   </data>
   <data name="Rings" xml:space="preserve">
     <value>반지</value>
@@ -1407,9 +1263,6 @@
   <data name="Ring_RockOfAnguish" xml:space="preserve">
     <value>비통의 돌</value>
   </data>
-  <data name="Ring_RotWard" xml:space="preserve">
-    <value>로트워드</value>
-  </data>
   <data name="Ring_RustedHeirloom" xml:space="preserve">
     <value>녹슨 가보</value>
   </data>
@@ -1518,9 +1371,6 @@
   <data name="RootCultist" xml:space="preserve">
     <value>군단</value>
   </data>
-  <data name="RootEarth" xml:space="preserve">
-    <value>루트 지구</value>
-  </data>
   <data name="RootEarthAshenWasteland" xml:space="preserve">
     <value>잿빛 황무지</value>
   </data>
@@ -1529,9 +1379,6 @@
   </data>
   <data name="RootHorror" xml:space="preserve">
     <value>카에울라의 그림자</value>
-  </data>  
-  <data name="Flautist" xml:space="preserve">
-    <value>루트 넥서스</value>
   </data>
   <data name="RootNexus" xml:space="preserve">
     <value>루트 넥서스</value>
@@ -1539,17 +1386,8 @@
   <data name="Sarcophagus" xml:space="preserve">
     <value>부패</value>
   </data>
-  <data name="Seeker's Rest" xml:space="preserve">
-    <value>탐구자의 안식처</value>
-  </data>
-  <data name="SentinelsKeep" xml:space="preserve">
-    <value>센티넬의 요새</value>
-  </data>
   <data name="SewageFacility" xml:space="preserve">
     <value>침수된 방</value>
-  </data>
-  <data name="Sewer" xml:space="preserve">
-    <value>Flooder Sewer</value>
   </data>
   <data name="ShatteredGallery" xml:space="preserve">
     <value>부서진 화랑</value>
@@ -1563,9 +1401,6 @@
   <data name="SilverGold" xml:space="preserve">
     <value>조각상</value>
   </data>
-  <data name="Spectrum Nexus" xml:space="preserve">
-    <value>스펙트럼 넥서스</value>
-  </data>
   <data name="SpectrumNexus" xml:space="preserve">
     <value>스펙트럼 넥서스</value>
   </data>
@@ -1578,83 +1413,17 @@
   <data name="Summoner" xml:space="preserve">
     <value>소환사</value>
   </data>
-  <data name="Tal'Ratha's Refuge" xml:space="preserve">
-    <value>탈 라사의 피난처</value>
-  </data>
   <data name="TalRatha" xml:space="preserve">
     <value>탈 라사</value>
   </data>
   <data name="TerminusStation" xml:space="preserve">
     <value>종착역</value>
   </data>
-  <data name="Terminus Station" xml:space="preserve">
-    <value>종착역</value>
-  </data>
-  <data name="The Chimney" xml:space="preserve">
-    <value>굴뚝</value>
-  </data>
-  <data name="TheChimney" xml:space="preserve">
-    <value>굴뚝</value>
-  </data>
-  <data name="The Dark Conduit" xml:space="preserve">
-    <value>암흑 전달자</value>
-  </data>
-  <data name="The Eon Vault" xml:space="preserve">
-    <value>영겁의 금고</value>
-  </data>
-  <data name="TheFarWoods" xml:space="preserve">
-    <value>머나먼 숲</value>
-  </data>
-  <data name="The Far Woods" xml:space="preserve">
-    <value>머나먼 숲</value>
-  </data>
-  <data name="The Forbidden Grove" xml:space="preserve">
-    <value>금단의 숲</value>
-  </data>
-  <data name="The Great Bole" xml:space="preserve">
-    <value>위대한 줄기</value>
-  </data>
-  <data name="The Great Hall" xml:space="preserve">
-    <value>대회당</value>
-  </data>
-  <data name="The Great Sewers" xml:space="preserve">
-    <value>거대한 하수도</value>
-  </data>
-  <data name="The Hatchery" xml:space="preserve">
-    <value>부화장</value>
-  </data>
-  <data name="The Lament" xml:space="preserve">
-    <value>애도의 장소</value>
-  </data>
-  <data name="The Lost Temple" xml:space="preserve">
-    <value>잃어버린 사원</value>
-  </data>
-  <data name="The Nameless Nest" xml:space="preserve">
-    <value>이름 없는 둥지</value>
-  </data>
-  <data name="The Putrid Domain" xml:space="preserve">
-    <value>타락의 영역</value>
-  </data>
-  <data name="The Red Throne" xml:space="preserve">
-    <value>붉은 왕좌</value>
-  </data>
-  <data name="The Tormented Asylum" xml:space="preserve">
-    <value>고통스러운 정신병원</value>
-  </data>
-  <data name="The Twisted Chantry" xml:space="preserve">
-    <value>일그러진 예배당</value>
-  </data>
-  <data name="The Withering Weald" xml:space="preserve">
-    <value>시들어가는 삼림지대</value>
-  </data>
   <data name="TheAstroPathsRespite" xml:space="preserve">
     <value>아스트로패스의 유예</value>
   </data>
   <data name="TheCustodian" xml:space="preserve">
     <value>관리인</value>
-  </data>
-  <data name="The Dappled Glade" xml:space="preserve">
-    <value>얼룩진 빈터</value>
   </data>
   <data name="TheDappledGlade" xml:space="preserve">
     <value>얼룩진 빈터</value>
@@ -1665,8 +1434,8 @@
   <data name="TheExpandingGlade" xml:space="preserve">
     <value>팽창하는 빈터</value>
   </data>
-  <data name="The Expanding Glade" xml:space="preserve">
-    <value>팽창하는 빈터</value>
+  <data name="TheFarWoods" xml:space="preserve">
+    <value>머나먼 숲</value>
   </data>
   <data name="TheGreatBole" xml:space="preserve">
     <value>위대한 줄기</value>
@@ -1689,7 +1458,7 @@
   <data name="TheNamelessNest" xml:space="preserve">
     <value>이름 없는 둥지</value>
   </data>
-  <data name="The Phantom Wasteland" xml:space="preserve">
+  <data name="ThePhantomWasteland" xml:space="preserve">
     <value>혼령 황무지</value>
   </data>
   <data name="ThePutridDomain" xml:space="preserve">
@@ -1710,32 +1479,17 @@
   <data name="ThreeMenMorris" xml:space="preserve">
     <value>성직 청원자</value>
   </data>
-  <data name="Threshold of the Unknown" xml:space="preserve">
-    <value>미지의 문턱</value>
-  </data>
   <data name="ThresholdOfTheUnknown" xml:space="preserve">
     <value>미지의 문턱</value>
   </data>
-  <data name="Tiller's Rest" xml:space="preserve">
-    <value>틸러의 휴식</value>
-  </data>
   <data name="TillersRest" xml:space="preserve">
     <value>틸러의 휴식</value>
-  </data>
-  <data name="Timeless Horizon" xml:space="preserve">
-    <value>영원한 지평선</value>
-  </data>
-  <data name="Titan's Reach" xml:space="preserve">
-    <value>타이탄의 구역</value>
   </data>
   <data name="TormentedAsylum" xml:space="preserve">
     <value>고통스러운 정신병원</value>
   </data>
   <data name="Tower" xml:space="preserve">
     <value>The Elevator</value>
-  </data>
-  <data name="Tower of the unseen" xml:space="preserve">
-    <value>보이지 않는 것의 타워</value>
   </data>
   <data name="TowerHeist" xml:space="preserve">
     <value>E.D. Alpha</value>
@@ -1857,14 +1611,8 @@
   <data name="Underworld_TheClaw" xml:space="preserve">
     <value>The Claw</value>
   </data>
-  <data name="Vault of the Formless" xml:space="preserve">
-    <value>무형의 금고</value>
-  </data>
   <data name="VaultOfTheFormless" xml:space="preserve">
     <value>무형의 금고</value>
-  </data>
-  <data name="Void Vessel Facility" xml:space="preserve">
-    <value>공허 함선 시설</value>
   </data>
   <data name="VoidVesselFacility" xml:space="preserve">
     <value>공허 함선 시설</value>
@@ -2070,9 +1818,6 @@
   <data name="Weapon_WorldsEdge" xml:space="preserve">
     <value>세상의 끝</value>
   </data>
-  <data name="Widow's Court" xml:space="preserve">
-    <value>과부의 궐</value>
-  </data>
   <data name="WindHollow" xml:space="preserve">
     <value>바람 탑</value>
   </data>
@@ -2109,8 +1854,17 @@
   <data name="Dwell" xml:space="preserve">
     <value>드웰</value>
   </data>
+  <data name="Amulet_NightmareSpiral" xml:space="preserve">
+    <value>악몽의 나선</value>
+  </data>
   <data name="Amulet_OnyxPendulum" xml:space="preserve">
     <value>오닉스 진자</value>
+  </data>
+  <data name="Amulet_SoulAnchor" xml:space="preserve">
+    <value>영혼의 닻</value>
+  </data>
+  <data name="Amulet_VoidIdol" xml:space="preserve">
+    <value>공허의 우상</value>
   </data>
   <data name="MetaGem_Battery" xml:space="preserve">
     <value>배터리</value>
@@ -2208,8 +1962,248 @@
   <data name="Weapon_SniperRifle" xml:space="preserve">
     <value>위도우메이커</value>
   </data>
+  <data name="Relic_Consumable_ConstrainedHeart" xml:space="preserve">
+    <value>억제된 심장</value>
+  </data>
   <data name="TheNest" xml:space="preserve">
     <value>잘린 손</value>
+  </data>
+  <data name="Trait_Affliction" xml:space="preserve">
+    <value>고통</value>
+  </data>
+  <data name="Ritualist" xml:space="preserve">
+    <value>의식술사</value>
+  </data>
+  <data name="Weapon_AbyssalHook" xml:space="preserve">
+    <value>심연의 갈고리</value>
+  </data>
+  <data name="Weapon_Anguish" xml:space="preserve">
+    <value>비통</value>
+  </data>
+  <data name="Weapon_Monarch" xml:space="preserve">
+    <value>군주</value>
+  </data>
+  <data name="Weapon_RitualistScythe" xml:space="preserve">
+    <value>의식술사 대낫</value>
+  </data>
+  <data name="Weapon_Sparkfire" xml:space="preserve">
+    <value>스파크파이어 산탄총</value>
+  </data>
+  <data name="Weapon_Scythe" xml:space="preserve">
+    <value>강철 낫</value>
+  </data>
+  <data name="Amulet_BirthrightOfTheLost" xml:space="preserve">
+    <value>잃어버린 자의 생득권</value>
+  </data>
+  <data name="Amulet_BrewmastersCork" xml:space="preserve">
+    <value>양조 기술자의 코르크</value>
+  </data>
+  <data name="Amulet_CostOfBetrayal" xml:space="preserve">
+    <value>배신의 대가</value>
+  </data>
+  <data name="Amulet_DeathSoakedIdol" xml:space="preserve">
+    <value>죽음이 깃든 우상</value>
+  </data>
+  <data name="Amulet_GiftOfEuphoria" xml:space="preserve">
+    <value>희열의 선물</value>
+  </data>
+  <data name="Amulet_GiftOfMelancholy" xml:space="preserve">
+    <value>우울의 선물</value>
+  </data>
+  <data name="Amulet_GiftOfTheUnbound" xml:space="preserve">
+    <value>얽메이지 않는 자의 선물</value>
+  </data>
+  <data name="Amulet_IndexOfTheScribe" xml:space="preserve">
+    <value>서기관의 색인</value>
+  </data>
+  <data name="Amulet_LegacyProtocol" xml:space="preserve">
+    <value>레거시 프로토콜</value>
+  </data>
+  <data name="Amulet_ParticipationMedal" xml:space="preserve">
+    <value>참여 메달</value>
+  </data>
+  <data name="Amulet_SinisterTotem" xml:space="preserve">
+    <value>불길한 토템</value>
+  </data>
+  <data name="Amulet_WhisperingMarble" xml:space="preserve">
+    <value>속삭이는 구슬</value>
+  </data>
+  <data name="Armor_RedPrinceArmor" xml:space="preserve">
+    <value>진홍색 경비병</value>
+  </data>
+  <data name="Armor_Ritualist" xml:space="preserve">
+    <value>광신도</value>
+  </data>
+  <data name="Impaler" xml:space="preserve">
+    <value>왕의 검, 브루인</value>
+  </data>
+  <data name="GardenMaze" xml:space="preserve">
+    <value>미로</value>
+  </data>
+  <data name="BurningCity_DLC" xml:space="preserve">
+    <value>천상의 저택</value>
+  </data>
+  <data name="Halls_DLC" xml:space="preserve">
+    <value>거울 바닥</value>
+  </data>
+  <data name="Lighthouse" xml:space="preserve">
+    <value>버려진 등대</value>
+  </data>
+  <data name="OneTrueKingStory" xml:space="preserve">
+    <value>각성한 왕</value>
+  </data>
+  <data name="Quest_Item_DLC_DreamLevel" xml:space="preserve">
+    <value>드란의 꿈</value>
+  </data>
+  <data name="Quest_Story_OTK" xml:space="preserve">
+    <value>로솜: 황량한 해안</value>
+  </data>
+  <data name="Relic_Consumable_BrokenHeart" xml:space="preserve">
+    <value>부서진 심장</value>
+  </data>
+  <data name="Relic_Consumable_PaperHeart" xml:space="preserve">
+    <value>종이 심장</value>
+  </data>
+  <data name="Item_Material_Engram_Ritualist" xml:space="preserve">
+    <value>의식술사</value>
+  </data>
+  <data name="SewerChamber" xml:space="preserve">
+    <value>더러운 제단</value>
+  </data>
+  <data name="SentinelsKeep" xml:space="preserve">
+    <value>센티넬의 요새</value>
+  </data>
+  <data name="TheChimney" xml:space="preserve">
+    <value>굴뚝</value>
+  </data>
+  <data name="Sewer_DLC" xml:space="preserve">
+    <value>Sewer Hole</value>
+  </data>
+  <data name="Sewer" xml:space="preserve">
+    <value>Flooder Sewer</value>
+  </data>
+  <data name="Witch" xml:space="preserve">
+    <value>가라앉은 마녀</value>
+  </data>
+  <data name="World_DLC1" xml:space="preserve">
+    <value>(DLC1)</value>
+  </data>
+  <data name="Armor_CrimsonGuard" xml:space="preserve">
+    <value>진홍색 경비병</value>
+  </data>
+  <data name="Weapon_Wrathbringer" xml:space="preserve">
+    <value>분노 도래자</value>
+  </data>
+  <data name="Mod_CreepingMist" xml:space="preserve">
+    <value>기어오르는 안개</value>
+  </data>
+  <data name="Mod_KnightGuard" xml:space="preserve">
+    <value>기사 경비병</value>
+  </data>
+  <data name="Mod_RingOfSpears" xml:space="preserve">
+    <value>창의 반지</value>
+  </data>
+  <data name="MetaGem_Dreadful" xml:space="preserve">
+    <value>끔찍한</value>
+  </data>
+  <data name="MetaGem_Executor" xml:space="preserve">
+    <value>집행자</value>
+  </data>
+  <data name="MetaGem_FetidWounds" xml:space="preserve">
+    <value>악취 나는 상처</value>
+  </data>
+  <data name="MetaGem_Guts" xml:space="preserve">
+    <value>배짱</value>
+  </data>
+  <data name="MetaGem_Maelstrom" xml:space="preserve">
+    <value>메일스트롬</value>
+  </data>
+  <data name="MetaGem_Prophecy" xml:space="preserve">
+    <value>예언</value>
+  </data>
+  <data name="MetaGem_Sleeper" xml:space="preserve">
+    <value>슬리퍼</value>
+  </data>
+  <data name="MetaGem_TaintedBlade" xml:space="preserve">
+    <value>더럽혀진 칼날</value>
+  </data>
+  <data name="Ring_AtonementFold" xml:space="preserve">
+    <value>속죄의 무리</value>
+  </data>
+  <data name="Ring_BandOfTheFanatic" xml:space="preserve">
+    <value>광신도의 밴드</value>
+  </data>
+  <data name="Ring_BitterMemento" xml:space="preserve">
+    <value>비통한 기념물</value>
+  </data>
+  <data name="Ring_BridgeWardensCrest" xml:space="preserve">
+    <value>다리 관리인의 문장</value>
+  </data>
+  <data name="Ring_BrawlersPride" xml:space="preserve">
+    <value>싸움꾼의 긍지</value>
+  </data>
+  <data name="Ring_BurdenOfTheDeparted" xml:space="preserve">
+    <value>고인의 부담</value>
+  </data>
+  <data name="Ring_BurdenOfTheSciolist" xml:space="preserve">
+    <value>사이비 학자의 부담</value>
+  </data>
+  <data name="Ring_CrimsonDreamstone" xml:space="preserve">
+    <value>진홍색 드림스톤</value>
+  </data>
+  <data name="Ring_DigestedHogLure" xml:space="preserve">
+    <value>소화된 돼지 미끼</value>
+  </data>
+  <data name="Ring_DriedClayRing" xml:space="preserve">
+    <value>말린 점토 반지</value>
+  </data>
+  <data name="Ring_ElevatedRing" xml:space="preserve">
+    <value>고상한 반지</value>
+  </data>
+  <data name="Ring_JewelOfTheBeholden" xml:space="preserve">
+    <value>빚진 자들의 보석</value>
+  </data>
+  <data name="Ring_LighthouseKeepersRing" xml:space="preserve">
+    <value>등대 수호자의 반지</value>
+  </data>
+  <data name="Ring_OfferingStone" xml:space="preserve">
+    <value>공양석</value>
+  </data>
+  <data name="Ring_PainlessObsidian" xml:space="preserve">
+    <value>고통 없는 흑요석</value>
+  </data>
+  <data name="Ring_PowerComplex" xml:space="preserve">
+    <value>파워 콤플렉스</value>
+  </data>
+  <data name="Ring_RingOfInfiniteDamage" xml:space="preserve">
+    <value>무한한 대미지의 반지</value>
+  </data>
+  <data name="Ring_RingOfTheCastaway" xml:space="preserve">
+    <value>조난자의 반지</value>
+  </data>
+  <data name="Ring_RingOfTheVain" xml:space="preserve">
+    <value>자만의 반지</value>
+  </data>
+  <data name="Ring_ShadowOfMisery" xml:space="preserve">
+    <value>비참의 그림자</value>
+  </data>
+  <data name="Ring_ShaedStone" xml:space="preserve">
+    <value>샤에드석</value>
+  </data>
+  <data name="Ring_SoulShard" xml:space="preserve">
+    <value>영혼 조각</value>
+  </data>
+  <data name="Ring_WoodRing" xml:space="preserve">
+    <value>나무 반지</value>
+  </data>
+  <data name="Ring_RedRingOfDeath" xml:space="preserve">
+    <value>죽음의 붉은 반지</value>
+  </data>
+  <data name="Ring_WhiteGlassBead" xml:space="preserve">
+    <value>하얀 유리 구슬</value>
+  </data>
+  <data name="Leywise" xml:space="preserve">
+    <value>레이와이즈</value>
   </data>
   <data name="MetaGem_BottomFeeder" xml:space="preserve">
     <value>하단 공급기</value>
@@ -2262,6 +2256,280 @@
   <data name="Weapon_CorruptedRunePistol" xml:space="preserve">
     <value>타락한 룬 권총</value>
   </data>
+  <data name="Trait_DarkPact" xml:space="preserve">
+    <value>어둠의 맹약</value>
+  </data>
+  <data name="Ring_ATaeriiBooster" xml:space="preserve">
+    <value>아타에리 부스터</value>
+  </data>
+  <data name="Mod_ChainOfCommand" xml:space="preserve">
+    <value>지휘 계통</value>
+  </data>
+  <data name="Amulet_ZeroDivide" xml:space="preserve">
+    <value>제로 디바이드 (Zero Divide)</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Amulet_FragrantThorn" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Amulet_BrazenAlloy" xml:space="preserve">
+    <value>황동 아말감 (Brazen Amalgam)</value>
+  </data>
+  <data name="Amulet_ExhaustValve" xml:space="preserve">
+    <value>배기 밸브 (Exhaust Valve)</value>
+  </data>
+  <data name="Amulet_ReactionChain" xml:space="preserve">
+    <value>연쇄 반응 (Reaction Chain)</value>
+  </data>
+  <data name="MetaGem_SuperHeated" xml:space="preserve">
+    <value>초과열 (Superheadted)</value>
+  </data>
+  <data name="Trait_Perception" xml:space="preserve">
+    <value>인식(Perception)</value>
+  </data>
+  <data name="Abyssal Rift" xml:space="preserve">
+    <value>심해의 균열</value>
+  </data>
+  <data name="Alepsis-Taura" xml:space="preserve">
+    <value>알렙시스-타우라</value>
+  </data>
+  <data name="Ascension Spire" xml:space="preserve">
+    <value>승천 첨탑</value>
+  </data>
+  <data name="Astropath's Respite" xml:space="preserve">
+    <value>아스트로패스의 유예</value>
+  </data>
+  <data name="Beatific Gallery" xml:space="preserve">
+    <value>지복의 화랑</value>
+  </data>
+  <data name="Beatific Palace" xml:space="preserve">
+    <value>지복의 궁전</value>
+  </data>
+  <data name="Blackened Citadel" xml:space="preserve">
+    <value>그을린 요새</value>
+  </data>
+  <data name="Boss" xml:space="preserve">
+    <value>월드 보스</value>
+  </data>
+  <data name="Briella's Reverie" xml:space="preserve">
+    <value>브리엘라의 몽상</value>
+  </data>
+  <data name="Briella's Garden" xml:space="preserve">
+    <value>브리엘라의 정원</value>
+  </data>
+  <data name="Brocwithe Quarter" xml:space="preserve">
+    <value>브록위트 쿼터</value>
+  </data>
+  <data name="Butcher's Quarter" xml:space="preserve">
+    <value>도살업자 구역</value>
+  </data>
+  <data name="Cathedral of Omens" xml:space="preserve">
+    <value>전조의 대성당</value>
+  </data>
+  <data name="Council Chamber" xml:space="preserve">
+    <value>의회실</value>
+  </data>
+  <data name="Council Tribunal" xml:space="preserve">
+    <value>의회실</value>
+  </data>
+  <data name="Dormant N'Erudian Facility" xml:space="preserve">
+    <value>휴면 네루디언 시설</value>
+  </data>
+  <data name="Event" xml:space="preserve">
+    <value>이벤트</value>
+  </data>
+  <data name="Fae" xml:space="preserve">
+    <value>로솜</value>
+  </data>
+  <data name="FaelinFaerlin_POI" xml:space="preserve">
+    <value>파에린 / 파엘린</value>
+  </data>
+  <data name="Faithless Thicket" xml:space="preserve">
+    <value>불신의 수풀</value>
+  </data>
+  <data name="Foesaken Quarter" xml:space="preserve">
+    <value>버림받은 구역</value>
+  </data>
+  <data name="Forgotten Prison" xml:space="preserve">
+    <value>잊힌 감옥</value>
+  </data>
+  <data name="Forgotten Field" xml:space="preserve">
+    <value>잊힌 들판</value>
+  </data>
+  <data name="Gilded Chambers" xml:space="preserve">
+    <value>금빛 방</value>
+  </data>
+  <data name="Harvester's Reach" xml:space="preserve">
+    <value>수확자의 구역</value>
+  </data>
+  <data name="Hewdas Clock" xml:space="preserve">
+    <value>휴다스 시계</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>거점</value>
+  </data>
+  <data name="Imperial Gardens" xml:space="preserve">
+    <value>제국 정원</value>
+  </data>
+  <data name="Injectable" xml:space="preserve">
+    <value>추가 이벤트</value>
+  </data>
+  <data name="Ironborough" xml:space="preserve">
+    <value>아이언보로우</value>
+  </data>
+  <data name="Jungle" xml:space="preserve">
+    <value>아에샤</value>
+  </data>
+  <data name="Kaeula's Rest" xml:space="preserve">
+    <value>카에울라의 휴식처</value>
+  </data>
+  <data name="Koara Kuri Nest" xml:space="preserve">
+    <value>코아라 쿠리 둥지</value>
+  </data>
+  <data name="Labyrinth" xml:space="preserve">
+    <value>미궁</value>
+  </data>
+  <data name="Lemark District" xml:space="preserve">
+    <value>레마크 구역</value>
+  </data>
+  <data name="Malefic Palace" xml:space="preserve">
+    <value>사악한 궁전</value>
+  </data>
+  <data name="Malefic Gallery" xml:space="preserve">
+    <value>사악한 화랑</value>
+  </data>
+  <data name="MiniBoss" xml:space="preserve">
+    <value>보스 던전</value>
+  </data>
+  <data name="Morrow Parish" xml:space="preserve">
+    <value>머로우 교구</value>
+  </data>
+  <data name="Morrow Sanatorium" xml:space="preserve">
+    <value>머로우 요양원</value>
+  </data>
+  <data name="Nerud" xml:space="preserve">
+    <value>네루드</value>
+  </data>
+  <data name="Oracle's Refuge" xml:space="preserve">
+    <value>계시의 피난처</value>
+  </data>
+  <data name="Palace Courtyard" xml:space="preserve">
+    <value>궁전 안뜰</value>
+  </data>
+  <data name="Phantom Wasteland" xml:space="preserve">
+    <value>혼령 황무지</value>
+  </data>
+  <data name="Postulant's Parlor" xml:space="preserve">
+    <value>성직 청원자의 객실</value>
+  </data>
+  <data name="Ravager's Lair" xml:space="preserve">
+    <value>약탈자의 굴</value>
+  </data>
+  <data name="Retreat's Horizon" xml:space="preserve">
+    <value>니므에의 은신처</value>
+  </data>
+  <data name="Ring_RotWard" xml:space="preserve">
+    <value>로트워드</value>
+  </data>
+  <data name="RootEarth" xml:space="preserve">
+    <value>루트 지구</value>
+  </data>
+  <data name="Seeker's Rest" xml:space="preserve">
+    <value>탐구자의 안식처</value>
+  </data>
+  <data name="Spectrum Nexus" xml:space="preserve">
+    <value>스펙트럼 넥서스</value>
+  </data>
+  <data name="Tal'Ratha's Refuge" xml:space="preserve">
+    <value>탈 라사의 피난처</value>
+  </data>
+  <data name="Terminus Station" xml:space="preserve">
+    <value>종착역</value>
+  </data>
+  <data name="The Chimney" xml:space="preserve">
+    <value>굴뚝</value>
+  </data>
+  <data name="The Dark Conduit" xml:space="preserve">
+    <value>암흑 전달자</value>
+  </data>
+  <data name="The Eon Vault" xml:space="preserve">
+    <value>영겁의 금고</value>
+  </data>
+  <data name="The Far Woods" xml:space="preserve">
+    <value>머나먼 숲</value>
+  </data>
+  <data name="The Forbidden Grove" xml:space="preserve">
+    <value>금단의 숲</value>
+  </data>
+  <data name="The Great Bole" xml:space="preserve">
+    <value>위대한 줄기</value>
+  </data>
+  <data name="The Great Hall" xml:space="preserve">
+    <value>대회당</value>
+  </data>
+  <data name="The Great Sewers" xml:space="preserve">
+    <value>거대한 하수도</value>
+  </data>
+  <data name="The Hatchery" xml:space="preserve">
+    <value>부화장</value>
+  </data>
+  <data name="The Lament" xml:space="preserve">
+    <value>애도의 장소</value>
+  </data>
+  <data name="The Lost Temple" xml:space="preserve">
+    <value>잃어버린 사원</value>
+  </data>
+  <data name="The Nameless Nest" xml:space="preserve">
+    <value>이름 없는 둥지</value>
+  </data>
+  <data name="The Putrid Domain" xml:space="preserve">
+    <value>타락의 영역</value>
+  </data>
+  <data name="The Red Throne" xml:space="preserve">
+    <value>붉은 왕좌</value>
+  </data>
+  <data name="The Tormented Asylum" xml:space="preserve">
+    <value>고통스러운 정신병원</value>
+  </data>
+  <data name="The Twisted Chantry" xml:space="preserve">
+    <value>일그러진 예배당</value>
+  </data>
+  <data name="The Withering Weald" xml:space="preserve">
+    <value>시들어가는 삼림지대</value>
+  </data>
+  <data name="The Dappled Glade" xml:space="preserve">
+    <value>얼룩진 빈터</value>
+  </data>
+  <data name="The Expanding Glade" xml:space="preserve">
+    <value>팽창하는 빈터</value>
+  </data>
+  <data name="The Phantom Wasteland" xml:space="preserve">
+    <value>혼령 황무지</value>
+  </data>
+  <data name="Threshold of the Unknown" xml:space="preserve">
+    <value>미지의 문턱</value>
+  </data>
+  <data name="Tiller's Rest" xml:space="preserve">
+    <value>틸러의 휴식</value>
+  </data>
+  <data name="Timeless Horizon" xml:space="preserve">
+    <value>영원한 지평선</value>
+  </data>
+  <data name="Titan's Reach" xml:space="preserve">
+    <value>타이탄의 구역</value>
+  </data>
+  <data name="Tower of the unseen" xml:space="preserve">
+    <value>보이지 않는 것의 타워</value>
+  </data>
+  <data name="Vault of the Formless" xml:space="preserve">
+    <value>무형의 금고</value>
+  </data>
+  <data name="Void Vessel Facility" xml:space="preserve">
+    <value>공허 함선 시설</value>
+  </data>
+  <data name="Widow's Court" xml:space="preserve">
+    <value>과부의 궐</value>
+  </data>
   <data name="Forlorn Coast" xml:space="preserve">
     <value>황량한 해안</value>
   </data>
@@ -2298,195 +2566,6 @@
   <data name="OneTrueKing" xml:space="preserve">
     <value>유일하며 진정한 왕</value>
   </data>
-  <data name="Ritualist" xml:space="preserve">
-    <value>의식술사</value>
-  </data>
-  <data name="Armor_Ritualist" xml:space="preserve">
-    <value>광신도</value>
-  </data>
-  <data name="Armor_CrimsonGuard" xml:space="preserve">
-    <value>진홍색 경비병</value>
-  </data>
-  <data name="MetaGem_Executor" xml:space="preserve">
-    <value>집행자</value>
-  </data>
-  <data name="MetaGem_Guts" xml:space="preserve">
-    <value>배짱</value>
-  </data>
-  <data name="MetaGem_TaintedBlade" xml:space="preserve">
-    <value>더럽혀진 칼날</value>
-  </data>
-  <data name="MetaGem_Dreadful" xml:space="preserve">
-    <value>끔찍한</value>
-  </data>
-  <data name="MetaGem_FetidWounds" xml:space="preserve">
-    <value>악취 나는 상처</value>
-  </data>
-  <data name="MetaGem_Maelstrom" xml:space="preserve">
-    <value>메일스트롬</value>
-  </data>
-  <data name="MetaGem_Prophecy" xml:space="preserve">
-    <value>예언</value>
-  </data>
-  <data name="MetaGem_Sleeper" xml:space="preserve">
-    <value>슬리퍼</value>
-  </data>
-  <data name="Mod_KnightGuard" xml:space="preserve">
-    <value>기사 경비병</value>
-  </data>
-  <data name="Mod_RingOfSpears" xml:space="preserve">
-    <value>창의 반지</value>
-  </data>
-  <data name="Mod_CreepingMist" xml:space="preserve">
-    <value>기어오르는 안개</value>
-  </data>
-  <data name="Relic_Consumable_BrokenHeart" xml:space="preserve">
-    <value>부서진 심장</value>
-  </data>
-  <data name="Relic_Consumable_PaperHeart" xml:space="preserve">
-    <value>종이 심장</value>
-  </data>
-  <data name="Trait_Affliction" xml:space="preserve">
-    <value>고통</value>
-  </data>
-  <data name="Trait_DarkPact" xml:space="preserve">
-    <value>어둠의 맹약</value>
-  </data>
-  <data name="Amulet_CostOfBetrayal" xml:space="preserve">
-    <value>배신의 대가</value>
-  </data>
-  <data name="Amulet_GiftOfEuphoria" xml:space="preserve">
-    <value>희열의 선물</value>
-  </data>
-  <data name="Amulet_GiftOfMelancholy" xml:space="preserve">
-    <value>우울의 선물</value>
-  </data>
-  <data name="Amulet_GiftOfTheUnbound" xml:space="preserve">
-    <value>얽메이지 않는 자의 선물</value>
-  </data>
-  <data name="Amulet_IndexOfTheScribe" xml:space="preserve">
-    <value>서기관의 색인</value>
-  </data>
-  <data name="Amulet_LegacyProtocol" xml:space="preserve">
-    <value>레거시 프로토콜</value>
-  </data>
-  <data name="Amulet_SinisterTotem" xml:space="preserve">
-    <value>불길한 토템</value>
-  </data>
-  <data name="Amulet_WhisperingMarble" xml:space="preserve">
-    <value>속삭이는 구슬</value>
-  </data>
-  <data name="Amulet_BrewmastersCork" xml:space="preserve">
-    <value>양조 기술자의 코르크</value>
-  </data>
-  <data name="Amulet_BirthrightoftheLost" xml:space="preserve">
-    <value>잃어버린 자의 생득권</value>
-  </data>
-  <data name="Amulet_DeathSoakedIdol" xml:space="preserve">
-    <value>죽음이 깃든 우상</value>
-  </data>
-  <data name="Amulet_ParticipationMedal" xml:space="preserve">
-    <value>참여 메달</value>
-  </data>
-  <data name="Ring_ATaeriiBooster" xml:space="preserve">
-    <value>아타에리 부스터</value>
-  </data>
-  <data name="Ring_AtonementFold" xml:space="preserve">
-    <value>속죄의 무리</value>
-  </data>
-  <data name="Ring_BandOfTheFanatic" xml:space="preserve">
-    <value>광신도의 밴드</value>
-  </data>
-  <data name="Ring_BrawlersPride" xml:space="preserve">
-    <value>싸움꾼의 긍지</value>
-  </data>
-  <data name="Ring_BridgeWardensCrest" xml:space="preserve">
-    <value>다리 관리인의 문장</value>
-  </data>
-  <data name="Ring_BurdenOfTheDeparted" xml:space="preserve">
-    <value>고인의 부담</value>
-  </data>
-  <data name="Ring_BurdenOfTheSciolist" xml:space="preserve">
-    <value>사이비 학자의 부담</value>
-  </data>
-  <data name="Ring_DigestedHogLure" xml:space="preserve">
-    <value>소화된 돼지 미끼</value>
-  </data>
-  <data name="Ring_ElevatedRing" xml:space="preserve">
-    <value>고상한 반지</value>
-  </data>
-  <data name="Ring_JewelOfTheBeholden" xml:space="preserve">
-    <value>빚진 자들의 보석</value>
-  </data>
-  <data name="Ring_LightHouseKeepersRing" xml:space="preserve">
-    <value>등대 수호자의 반지</value>
-  </data>
-  <data name="Ring_PowerComplex" xml:space="preserve">
-    <value>파워 콤플렉스</value>
-  </data>
-  <data name="Ring_RedRingOfDeath" xml:space="preserve">
-    <value>죽음의 붉은 반지</value>
-  </data>
-  <data name="Ring_RingOfInfiniteDamage" xml:space="preserve">
-    <value>무한한 대미지의 반지</value>
-  </data>
-  <data name="Ring_RingOfTheVain" xml:space="preserve">
-    <value>자만의 반지</value>
-  </data>
-  <data name="Ring_SoulShard" xml:space="preserve">
-    <value>영혼 조각</value>
-  </data>
-  <data name="Ring_WhiteGlassBead" xml:space="preserve">
-    <value>하얀 유리 구슬</value>
-  </data>
-  <data name="Ring_WoodRing" xml:space="preserve">
-    <value>나무 반지</value>
-  </data>
-  <data name="Ring_PainlessObsidian" xml:space="preserve">
-    <value>고통 없는 흑요석</value>
-  </data>
-  <data name="Ring_DriedClayRing" xml:space="preserve">
-    <value>말린 점토 반지</value>
-  </data>
-  <data name="Ring_OfferingStone" xml:space="preserve">
-    <value>공양석</value>
-  </data>
-  <data name="Ring_ShadowofMisery" xml:space="preserve">
-    <value>비참의 그림자</value>
-  </data>
-  <data name="Ring_RingoftheCastaway" xml:space="preserve">
-    <value>조난자의 반지</value>
-  </data>
-  <data name="Ring_BitterMemento" xml:space="preserve">
-    <value>비통한 기념물</value>
-  </data>
-  <data name="Ring_ShaedStone" xml:space="preserve">
-    <value>샤에드석</value>
-  </data>
-  <data name="Ring_CrimsonDreamstone" xml:space="preserve">
-    <value>진홍색 드림스톤</value>
-  </data>
-  <data name="Weapon_Sparkfire" xml:space="preserve">
-    <value>스파크파이어 산탄총</value>
-  </data>
-  <data name="Weapon_Scythe" xml:space="preserve">
-    <value>강철 낫</value>
-  </data>
-  <data name="Weapon_RitualistScythe" xml:space="preserve">
-    <value>의식술사 대낫</value>
-  </data>
-  <data name="Weapon_AbyssalHook" xml:space="preserve">
-    <value>심연의 갈고리</value>
-  </data>
-  <data name="Weapon_Wrathbringer" xml:space="preserve">
-    <value>분노 도래자</value>
-  </data>
-  <data name="Weapon_Monarch" xml:space="preserve">
-    <value>군주</value>
-  </data>
-  <data name="Weapon_Anguish" xml:space="preserve">
-    <value>비통</value>
-  </data>
   <data name="AsylumHouse" xml:space="preserve">
     <value>머로우 요양원</value>
   </data>
@@ -2499,67 +2578,13 @@
   <data name="Forgotten Null" xml:space="preserve">
     <value>잊힌 허무</value>
   </data>
-  <data name="HiddenChamber" xml:space="preserve">
-    <value>Hidden Chamber</value>
+  <data name="Amulet_BrokenPocketWatch_Notes" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
   </data>
-  <data name="HiddenMaze" xml:space="preserve">
-    <value>미로</value>
+  <data name="Whispers" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
   </data>
-  <data name="IslandJump" xml:space="preserve">
-    <value>Island Jump Puzzle</value>
-  </data>
-  <data name="IslandJump" xml:space="preserve">
-    <value>Island Jump Puzzle</value>
-  </data>
-  <data name="Armor_RedPrinceArmor" xml:space="preserve">
-    <value>진홍색 경비병</value>
-  </data>
-  <data name="Impaler" xml:space="preserve">
-    <value>왕의 검, 브루인</value>
-  </data>
-  <data name="GardenMaze" xml:space="preserve">
-    <value>미로</value>
-  </data>
-  <data name="BurningCity_DLC" xml:space="preserve">
-    <value>천상의 저택</value>
-  </data>
-  <data name="BurningCity_DLC" xml:space="preserve">
-    <value>천상의 저택</value>
-  </data>
-  <data name="Halls_DLC" xml:space="preserve">
-    <value>거울 바닥</value>
-  </data>
-  <data name="Lighthouse" xml:space="preserve">
-    <value>버려진 등대</value>
-  </data>
-  <data name="OneTrueKingStory" xml:space="preserve">
-    <value>각성한 왕</value>
-  </data>
-  <data name="Quest_Item_DLC_DreamLevel" xml:space="preserve">
-    <value>드란의 꿈</value>
-  </data>
-  <data name="Quest_Story_OTK" xml:space="preserve">
-    <value>로솜: 황량한 해안</value>
-  </data>
-  <data name="Item_Material_Engram_Ritualist" xml:space="preserve">
-    <value>의식술사</value>
-  </data>
-  <data name="SewerChamber" xml:space="preserve">
-    <value>더러운 제단</value>
-  </data>
-  <data name="Sewer_DLC" xml:space="preserve">
-    <value>Sewer Hole</value>
-  </data>
-  <data name="Witch" xml:space="preserve">
-    <value>가라앉은 마녀</value>
-  </data>
-  <data name="World_DLC1" xml:space="preserve">
-    <value>(DLC1)</value>
-  </data>
-  <data name="Leywise" xml:space="preserve">
-    <value>레이와이즈</value>
-  </data>
-  <data name="Mod_ChainOfCommand" xml:space="preserve">
-    <value>지휘 계통</value>
+  <data name="Relic_Consumable_PaperHeart_Notes" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
   </data>
 </root>
