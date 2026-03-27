@@ -2793,4 +2793,7 @@
   <data name="Deserted Atelier" xml:space="preserve">
     <value />
   </data>
+  <data name="Abyssal Rift" xml:space="preserve">
+    <value>Abyssal Rift 1</value>
+  </data>
 </root>
